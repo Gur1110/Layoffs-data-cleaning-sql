@@ -38,7 +38,7 @@ Key queries run and what they explored:
 | Rolling total using `SUM() OVER()` with a CTE | Calculated a month-by-month rolling total of layoffs to visualize the trend over time |
 | `DENSE_RANK()` with a CTE, partitioned by year | Ranked companies by total layoffs *within each year*, to find the top 5 companies with the most layoffs per year |
 
-### 🏆 Top 5 Companies by Layoffs, Per Year (sample output)
+### 🏆 Top 5 Companies by Layoffs, Per Year
 
 | Year | Top Companies (Layoffs) |
 |------|--------------------------|
