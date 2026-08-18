@@ -1,5 +1,5 @@
 # Layoffs-Dataset-SQL-Pipeline
-"Data cleaning pipeline (SQL) for a layoffs dataset - deduplication, null handling, standardization"
+"Data cleaning and exploratory data analysis(EDA) pipeline (SQL) for a layoffs dataset - deduplication, null handling, standardization, and trend analysis."
 ## 🧹 Data Cleaning Steps (`layoffs_data_cleaning.sql`)
 
 1. **Staged the raw data** — Created `layoffs_staging` as a copy of the raw `layoffs` table, so all cleaning happens without touching the original data.
