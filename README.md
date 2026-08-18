@@ -1,6 +1,7 @@
 # Layoffs-Dataset-SQL-Pipeline
 "Data cleaning and exploratory data analysis(EDA) pipeline (SQL) for a layoffs dataset - deduplication, null handling, standardization, and trend analysis."
-This dataset captures **383,659 layoffs* across companies worldwide, from **March 2020 to March 2023**.
+
+This dataset captures **383,659 layoffs** across companies worldwide, from **March 2020 to March 2023**.
 ## 🧹 Data Cleaning Steps (`layoffs_data_cleaning.sql`)
 
 1. **Staged the raw data** — Created `layoffs_staging` as a copy of the raw `layoffs` table, so all cleaning happens without touching the original data.
