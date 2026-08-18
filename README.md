@@ -1,4 +1,4 @@
-# Layoffs-data-cleaning-sql
+# Layoffs-Dataset-SQL-Pipeline
 "Data cleaning pipeline (SQL) for a layoffs dataset - deduplication, null handling, standardization"
 ## 🧹 Data Cleaning Steps (`layoffs_data_cleaning.sql`)
 
